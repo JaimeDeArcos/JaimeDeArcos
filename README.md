@@ -15,4 +15,4 @@ I'm a Software Engineer at [Twilio](https://www.twilio.com/).
 - 🔭 I’m currently working at Twilio
 - 🌱 I’m currently learning about Infrastructure as code (IaC) and terraform.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to drive a truck before working on software 🙌
+- ⚡ Fun fact: I used to drive a truck before working on the software industry 🙌
