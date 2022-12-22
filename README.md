@@ -1,18 +1,25 @@
 
 
-<h3 align="center">👋 Hi there, I'm Jaime.</h3>
+<h1 align="center">👋 Hi there, I'm Jaime</h1>
 
-<p align="center">
-  <a href="https://jaimedearcos.es/">Website</a> •
-  <a href="https://blog.jaimedearcos.es/">Blog</a> •
-  <a href="https://twitter.com/jaimedearcos">Twitter</a>
-</p>
+<h3 align='center'>
+  Software Engineer at Twilio
+</h3>
+ 
+
+<h3 align="center">
+  <a href="https://jaimedearcos.com/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/jaimedearcos">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+</h3>
 
 ---
 
-I'm a Software Engineer at [Twilio](https://www.twilio.com/).
+- :ceuta_melilla: Based in Madrid.
+- :computer: Focused on SRE practices and developing deployment safety tools. 
+- :smile: Fun fact: I used to drive a truck for living before working on the software industry.
 
-- 🔭 I’m currently working at Twilio
-- 🌱 I’m currently learning about Infrastructure as code (IaC) and terraform.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to drive a truck before working on the software industry 🙌
+---
