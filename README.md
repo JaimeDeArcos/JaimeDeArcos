@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi there, I'm Jaime</h1>
 
 <h3 align='center'>
-  Software Engineer at Twilio
+  Software Solutions Arquitect at Inditex
 </h3>
  
 
